@@ -8,7 +8,6 @@
    <div class="wrapper">
     <MainSearch />
     <MainCards />
-    <h1>Hello There</h1> 
    </div>
 </template>
 
