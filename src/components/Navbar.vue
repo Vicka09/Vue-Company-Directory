@@ -32,6 +32,7 @@
             }
             .menu {
                 @apply flex gap-2;
+                
                 &-item {
                     @apply rounded-md px-4 py-2 hover:bg-yellow-500 hover:text-neutral-100;
                 }
