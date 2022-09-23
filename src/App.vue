@@ -5,5 +5,5 @@
 
 <template>
   <Navbar />
-  <MainPage />
+  <RouterView />
 </template>
